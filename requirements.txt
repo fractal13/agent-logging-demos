@@ -1,0 +1,14 @@
+pip
+torch
+transformers
+smolagents[litellm,transformers,openai]
+requests
+markdownify
+duckduckgo-search
+wikipedia
+pandas
+pillow
+accelerate
+opentelemetry-sdk
+opentelemetry-exporter-otlp
+openinference-instrumentation-smolagents
